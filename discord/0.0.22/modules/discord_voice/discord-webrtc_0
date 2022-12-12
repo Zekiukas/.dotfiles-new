@@ -1316,3 +1316,213 @@ Render pre processor: 0
 [2022-12-12 20:54:43.452] [4858] (device_info_linux.cc:45): NumberOfDevices
 [2022-12-12 20:54:46.464] [4858] (device_info_linux.cc:45): NumberOfDevices
 [2022-12-12 20:54:49.479] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:54:52.484] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:54:55.499] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:54:58.514] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:01.527] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:04.542] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:07.558] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:10.559] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:13.574] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:16.589] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:19.602] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:22.617] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:25.632] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:28.648] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:31.650] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:34.651] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:37.653] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:40.669] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:43.679] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:46.695] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:49.710] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:52.723] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:53.584] [4664] (discord.cpp:543): JS console: ["%c[CloudUpload.tsx]","Requesting upload url for upload1322"]
+[2022-12-12 20:55:53.923] [4664] (discord.cpp:543): JS console: ["%c[CloudUpload.tsx]","Uploading upload1322"]
+[2022-12-12 20:55:54.662] [4664] (discord.cpp:543): JS console: ["%c[CloudUploaderBase.tsx]","setUploadingTextForUI - total content: 16137 bytes and 1 attachments for Uploader1324"]
+[2022-12-12 20:55:55.619] [4664] (discord.cpp:543): JS console: ["%c[CloudUpload.tsx]","Upload complete for upload1322"]
+[2022-12-12 20:55:55.738] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:55:56.146] [4664] (discord.cpp:543): JS console: ["%c[UploaderBase.tsx]","_handleComplete for Uploader1324"]
+[2022-12-12 20:55:58.754] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:01.769] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:04.784] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:07.797] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:10.812] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:13.828] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:16.843] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:19.858] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:22.873] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:25.882] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:28.895] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:31.910] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:34.926] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:37.941] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:40.955] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:43.970] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:46.986] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:50.001] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:53.013] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:56.015] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:56:59.031] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:02.046] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:05.061] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:08.075] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:11.088] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:14.104] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:17.119] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:20.126] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:23.133] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:26.149] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:29.164] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:32.166] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:35.179] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:38.194] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:41.210] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:44.225] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:47.240] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:50.255] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:52.454] [4664] (discord.cpp:543): JS console: ["%c[GatewaySocket]","[WS CLOSED] (true, 4003, Not authenticated.) retrying in 2.18 seconds."]
+[2022-12-12 20:57:53.268] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:54.637] [4664] (discord.cpp:543): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway-us-east1-d.discord.gg, encoding: etf, version: 9, compression: zlib-stream"]
+[2022-12-12 20:57:55.113] [4664] (discord.cpp:543): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway-us-east1-d.discord.gg/?encoding=etf&v=9&compress=zlib-stream in 475 ms"]
+[2022-12-12 20:57:55.113] [4664] (discord.cpp:543): JS console: ["%c[GatewaySocket]","[RESUME] resuming session 37390e26eb30c32ee0080ad70da84f89, seq: 8653"]
+[2022-12-12 20:57:55.114] [4664] (discord.cpp:543): JS console: ["%c[GatewaySocket]","[HELLO] via \ngateway-prd-us-east1-d-cx6w: 0, heartbeat interval: 41250, took 476 ms"]
+[2022-12-12 20:57:55.261] [4664] (discord.cpp:543): JS console: ["%c[GatewaySocket]","[INVALID_SESSION]"]
+[2022-12-12 20:57:55.261] [4664] (discord.cpp:543): JS console: ["%c[ConnectionStore]","handleIdentify called","[object Object]"]
+[2022-12-12 20:57:55.261] [4664] (discord.cpp:543): JS console: ["%c[GatewaySocket]","[IDENTIFY]"]
+[2022-12-12 20:57:55.524] [4664] (discord.cpp:543): JS console: ["%c[GatewaySocket]","[WS CLOSED] because of authentication failure, marking as closed."]
+[2022-12-12 20:57:55.524] [4664] (discord.cpp:543): JS console: ["%c[GatewaySocket]","[RESET] (true, 4004, Authentication failed.)"]
+[2022-12-12 20:57:55.525] [4664] (discord.cpp:543): JS console: ["%c[AuthenticationStore]","handleConnectionClosed called with code 4004.","[object Object]"]
+[2022-12-12 20:57:55.525] [4664] (discord.cpp:543): JS console: ["%c[AuthenticationStore]","handleLogout called.","[object Object]"]
+[2022-12-12 20:57:55.526] [4664] (discord.cpp:543): JS console: ["%c[AuthenticationStore]","removeAuthToken called.","[object Object]"]
+[2022-12-12 20:57:55.608] [4664] (discord.cpp:543): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /login"]
+[2022-12-12 20:57:56.283] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:57:57.858] [4664] (discord.cpp:543): JS console: ["%c[LoginQRSocket]","[0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=2"]
+[2022-12-12 20:57:58.126] [4664] (discord.cpp:543): JS console: ["%c[LoginQRSocket]","[270ms] got hello, auth timeout=139939ms"]
+[2022-12-12 20:57:58.218] [4664] (discord.cpp:543): JS console: ["%c[LoginQRSocket]","[362ms] connected, handshaking with fingerprint: aaFUCTGq7LyOuD07o1BhE0fwTnGZoLVb6YqHmAvWZB0"]
+[2022-12-12 20:57:58.360] [4664] (discord.cpp:543): JS console: ["%c[LoginQRSocket]","[503ms] computed nonce proof"]
+[2022-12-12 20:57:58.594] [4664] (discord.cpp:543): JS console: ["%c[LoginQRSocket]","[737ms] handshake complete awaiting remote auth."]
+[2022-12-12 20:57:59.298] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:02.313] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:05.329] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:08.344] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:11.348] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:14.351] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:17.353] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:20.368] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:23.375] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:26.390] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:29.397] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:32.412] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:35.428] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:38.432] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:41.447] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:44.462] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:47.476] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:50.492] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:53.499] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:56.501] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:58:59.503] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:02.515] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:05.517] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:08.526] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:11.528] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:14.543] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:17.547] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:20.559] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:23.575] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:26.590] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:29.595] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:32.606] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:35.621] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:38.637] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:41.651] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:44.666] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:47.682] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:50.697] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:53.712] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:56.723] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 20:59:59.738] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:02.741] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:05.749] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:08.750] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:11.766] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:14.781] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:17.796] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:18.078] [4664] (discord.cpp:543): JS console: ["%c[LoginQRSocket]","[140221ms] disconnected, code: 4003 Handshake Timeout"]
+[2022-12-12 21:00:18.078] [4664] (discord.cpp:543): JS console: ["%c[LoginQRSocket]","Could not complete QR code login, trying to restart with a new QR code."]
+[2022-12-12 21:00:20.176] [4664] (discord.cpp:543): JS console: ["%c[LoginQRSocket]","[142320ms] cleaning up"]
+[2022-12-12 21:00:20.176] [4664] (discord.cpp:543): JS console: ["%c[LoginQRSocket]","[0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=2"]
+[2022-12-12 21:00:20.403] [4664] (discord.cpp:543): JS console: ["%c[LoginQRSocket]","[227ms] got hello, auth timeout=140286ms"]
+[2022-12-12 21:00:20.512] [4664] (discord.cpp:543): JS console: ["%c[LoginQRSocket]","[336ms] connected, handshaking with fingerprint: PeQv8vaVsRhgUeJm7zZoKW2IMnUA6-OFfbkfofXMh2o"]
+[2022-12-12 21:00:20.655] [4664] (discord.cpp:543): JS console: ["%c[LoginQRSocket]","[479ms] computed nonce proof"]
+[2022-12-12 21:00:20.792] [4664] (discord.cpp:543): JS console: ["%c[LoginQRSocket]","[616ms] handshake complete awaiting remote auth."]
+[2022-12-12 21:00:20.811] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:23.827] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:26.842] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:29.857] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:32.866] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:35.881] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:38.896] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:41.899] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:44.914] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:47.927] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:50.939] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:51.112] [4664] (discord.cpp:543): JS console: ["%c[LoginQRSocket]","[30935ms] remote auth handshake started, awaiting ticket/cancel."]
+[2022-12-12 21:00:53.209] [4664] (discord.cpp:543): JS console: ["%c[AuthenticationStore]","setAuthToken called.","[object Object]"]
+[2022-12-12 21:00:53.227] [4664] (discord.cpp:543): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /app"]
+[2022-12-12 21:00:53.257] [4664] (discord.cpp:543): JS console: ["%c[LoginQRSocket]","[33080ms] cleaning up"]
+[2022-12-12 21:00:53.268] [4664] (discord.cpp:543): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway-us-east1-d.discord.gg, encoding: etf, version: 9, compression: zlib-stream"]
+[2022-12-12 21:00:53.699] [4664] (discord.cpp:543): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway-us-east1-d.discord.gg/?encoding=etf&v=9&compress=zlib-stream in 431 ms"]
+[2022-12-12 21:00:53.699] [4664] (discord.cpp:543): JS console: ["%c[ConnectionStore]","handleIdentify called","[object Object]"]
+[2022-12-12 21:00:53.700] [4664] (discord.cpp:543): JS console: ["%c[GatewaySocket]","[IDENTIFY]"]
+[2022-12-12 21:00:53.706] [4664] (discord.cpp:543): JS console: ["%c[GatewaySocket]","[HELLO] via \ngateway-prd-us-east1-d-shds: 0, heartbeat interval: 41250, took 438 ms"]
+[2022-12-12 21:00:53.954] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:55.480] [4664] (discord.cpp:543): JS console: ["%c[GatewaySocket]","[READY] took 2211ms, as c64c0151a423f75724076dbc9894ef10 via \ngateway-prd-us-east1-d-shds: 338.306\n|  id_created: 0.926\n|  session_lookup_time: 0.298\n|  session_lookup_finished: 0.011\n|  discord-sessions-blue-prd-2-99: 297.864\n|  |  start_session: 207.312\n|  |  |  discord-api-5698885756-9wgl4: 149.907\n|  |  |  |  get_user: 16.938\n|  |  |  |  get_guilds: 22.578\n|  |  |  |  user_settings_proto: 14.042\n|  |  |  |  relationships: 61.959\n|  |  |  |  friend_suggestion: 0.066\n|  |  |  |  connections: 0.221\n|  |  |  |  serialized_read_states: 0.008\n|  |  |  |  pending_payments: 0.002\n|  |  |  |  send_scheduled_deletion_message: 0.002\n|  |  |  |  sanitize_premium_perks: 0.001\n|  |  |  |  guild_join_requests: 0.002\n|  |  |  |  user_guild_settings: 0.001\n|  |  |  |  serialized_private_channels: 0.002\n|  |  |  |  experiments: 6.677\n|  |  |  |  affine_user_ids: 16.125\n|  |  |  |  required_action: 0.005\n|  |  |  |  authorized_ip_coro: 0.002\n|  |  starting_guild_connect: 0.136\n|  |  presence_started: 0.36\n|  |  guilds_started: 3.206\n|  |  guilds_connect: 45.75\n|  |  presence_connect: 0.002\n|  |  connect_finished: 45.788\n|  |  build_ready: 29.523\n|  |  optimize_ready: 10.86\n|  |  split_ready: 0.674\n|  |  clean_ready: 0.001"]
+[2022-12-12 21:00:55.570] [4664] (discord.cpp:543): JS console: ["%c[AuthenticationStore]","handleConnectionOpen called","[object Object]"]
+[2022-12-12 21:00:55.633] [4664] (discord.cpp:543): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2022-12-12 21:00:55.651] [4664] (discord.cpp:543): JS console: ["%c[MessageActionCreators]","Fetching messages for 810547189625126933 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2022-12-12 21:00:55.661] [4664] (discord.cpp:543): JS console: ["%c[GatewaySocket]","Updating resume url to wss://gateway-us-east1-d.discord.gg"]
+[2022-12-12 21:00:55.674] [4664] (discord.cpp:543): JS console: ["%c[GatewaySocket]","[READY_SUPPLEMENTAL] took 2406ms"]
+[2022-12-12 21:00:56.023] [4664] (discord.cpp:543): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 810547189625126933 isBefore:false isAfter:false"]
+[2022-12-12 21:00:56.967] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:00:59.979] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:02.994] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:06.001] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:09.009] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:12.024] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:15.029] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:18.043] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:21.055] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:22.269] [4664] (discord.cpp:543): JS console: ["%c[MessageStore]","Message was missing an author!"]
+[2022-12-12 21:01:23.055] [21796] (region_latency_tester.cpp:71): Sending 5 latency test pings to region stockholm
+[2022-12-12 21:01:23.055] [21796] (region_latency_tester.cpp:71): Sending 5 latency test pings to region finland
+[2022-12-12 21:01:23.055] [21796] (region_latency_tester.cpp:71): Sending 5 latency test pings to region frankfurt
+[2022-12-12 21:01:23.055] [21796] (region_latency_tester.cpp:71): Sending 5 latency test pings to region bucharest
+[2022-12-12 21:01:23.055] [21796] (region_latency_tester.cpp:71): Sending 5 latency test pings to region rotterdam
+[2022-12-12 21:01:23.110] [21796] (region_latency_tester.cpp:270): Average RTT for region stockholm is 53
+[2022-12-12 21:01:23.110] [21796] (region_latency_tester.cpp:270): Average RTT for region finland is 29.5
+[2022-12-12 21:01:23.110] [21796] (region_latency_tester.cpp:270): Average RTT for region frankfurt is 31.25
+[2022-12-12 21:01:23.110] [21796] (region_latency_tester.cpp:270): Average RTT for region bucharest is 52.25
+[2022-12-12 21:01:23.110] [21796] (region_latency_tester.cpp:270): Average RTT for region rotterdam is 42.75
+[2022-12-12 21:01:23.110] [4664] (discord.cpp:543): JS console: ["%c[RTCLatencyTestManager]","RTC region latency test completed: ","finland,frankfurt,rotterdam,bucharest,stockholm"]
+[2022-12-12 21:01:24.070] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:27.083] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:30.095] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:33.107] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:36.122] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:39.138] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:42.143] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:45.158] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:48.173] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:51.188] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:54.204] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:01:57.219] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:02:00.234] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:02:03.249] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:02:06.265] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:02:09.269] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:02:12.284] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:02:15.299] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:02:18.311] [4858] (device_info_linux.cc:45): NumberOfDevices
+[2022-12-12 21:02:21.313] [4858] (device_info_linux.cc:45): NumberOfDevices
