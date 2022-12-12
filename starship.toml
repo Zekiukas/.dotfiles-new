@@ -1,0 +1,17 @@
+format = "$all$directory$character"
+
+add_newline = true
+
+[hostname]
+ssh_only = true
+disabled = true
+
+[username]
+disabled = true
+
+[container]
+disabled = true
+
+
+[git_branch]
+format = "[$symbol$branch]($style) "

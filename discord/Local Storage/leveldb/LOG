@@ -1,0 +1,6 @@
+2022/12/12-20:09:43.934 f50 Reusing MANIFEST /home/zekiukas/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/12/12-20:09:43.934 f50 Recovering log #344
+2022/12/12-20:09:43.935 f50 Reusing old log /home/zekiukas/.config/discord/Local Storage/leveldb/000344.log 
+2022/12/12-20:15:39.408 13ba Level-0 table #348: started
+2022/12/12-20:15:39.422 13ba Level-0 table #348: 1269928 bytes OK
+2022/12/12-20:15:39.425 13ba Delete type=0 #344

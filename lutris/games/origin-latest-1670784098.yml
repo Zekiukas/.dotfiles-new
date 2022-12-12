@@ -1,0 +1,62 @@
+game:
+  exe: /home/zekiukas/Games/origin/drive_c/Program Files (x86)/Origin/Origin.exe
+  prefix: /home/zekiukas/Games/origin
+game_slug: origin
+name: Origin
+requires: null
+script:
+  files:
+  - client: https://download.dm.origin.com/origin/live/OriginSetup.exe
+  game:
+    exe: $GAMEDIR/drive_c/Program Files (x86)/Origin/Origin.exe
+    prefix: $GAMEDIR
+  installer:
+  - task:
+      arch: win64
+      prefix: /home/zekiukas/Games/origin
+      wine_path: /home/zekiukas/.local/share/lutris/runners/wine/lutris-7.2-2-x86_64/bin/wine
+  - task:
+      app: arial
+      arch: win64
+      prefix: /home/zekiukas/Games/origin
+      wine_path: /home/zekiukas/.local/share/lutris/runners/wine/lutris-7.2-2-x86_64/bin/wine
+  - task:
+      arch: win64
+      args: /silent
+      env:
+        STAGING_SHARED_MEMORY: '0'
+        __GL_SHADER_DISK_CACHE: '1'
+        __GL_SHADER_DISK_CACHE_PATH: /home/zekiukas/Games/origin
+      exclude_processes: Origin.exe OriginClientService.exe OriginWebHelperService.exe
+        QtWebEngineProcess.exe explorer.exe winedbg.exe OriginER.exe
+      executable: /home/zekiukas/.cache/lutris/installer/origin/client/OriginSetup.exe
+      prefix: /home/zekiukas/Games/origin
+      wine_path: /home/zekiukas/.local/share/lutris/runners/wine/lutris-7.2-2-x86_64/bin/wine
+  - task:
+      arch: win64
+      prefix: /home/zekiukas/Games/origin
+      wine_path: /home/zekiukas/.local/share/lutris/runners/wine/lutris-7.2-2-x86_64/bin/wine
+  system:
+    env:
+      STAGING_SHARED_MEMORY: 0
+      __GL_SHADER_DISK_CACHE: 1
+      __GL_SHADER_DISK_CACHE_PATH: $GAMEDIR
+    exclude_processes: QtWebEngineProcess.exe ActivationUI.exe OriginWebHelperService.exe
+  wine:
+    overrides:
+      nvapi,nvapi64: disabled
+    version: lutris-7.2-2-x86_64
+slug: origin-latest
+system:
+  env:
+    STAGING_SHARED_MEMORY: '0'
+    __GL_SHADER_DISK_CACHE: '1'
+    __GL_SHADER_DISK_CACHE_PATH: /home/zekiukas/Games/origin
+  exclude_processes: QtWebEngineProcess.exe ActivationUI.exe OriginWebHelperService.exe
+variables: {}
+version: Latest
+wine:
+  overrides:
+    nvapi,nvapi64: disabled
+  version: lutris-7.2-2-x86_64
+year: 2011

@@ -1,0 +1,51 @@
+# reload sxhkd
+super + Escape
+	pkill -USR1 -x sxhkd
+
+# kill window
+super + q
+	bspc node --close
+
+# terminal
+super + Return
+	alacritty
+
+# rofi
+super + @space
+	rofi -show drun
+
+# browser
+super + b
+	firefox
+
+# file manager
+super + e
+	nautilus	
+
+# music
+super + m
+	~/.local/bin/rofi-beats
+
+# toggle between tiling, floating and fullscreen
+super + {t, f, shift + f}
+	bspc node --state {tiled,floating,fullscreen}
+
+# change focus
+super + {h,j,k,l}
+	bspc node --focus {west,south,north,east}
+
+# swap windows
+super + shift + {h,j,k,l}
+	bspc node --swap {west,south,north,east}
+
+# send windows to other monitor
+super + ctrl + {h,j,k,l}
+	bspc node --to-monitor {west,south,north,east} --follow
+
+# focus or send to the given desktop
+super + {_,shift + }{1-9,0}
+	bspc {desktop -f,node -d} focused:^{1-9,10}
+
+# quit bspwm
+super + BackSpace
+	bspc quit

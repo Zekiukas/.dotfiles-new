@@ -1,0 +1,8 @@
+2022-12-11 20:17:02.952 [info] update#setState idle
+2022-12-11 20:17:04.174 [info] Starting extension host with pid 4783 (fork() took 10 ms).
+2022-12-11 20:17:32.991 [info] update#setState checking for updates
+2022-12-11 20:17:33.039 [info] update#setState idle
+2022-12-11 20:28:17.608 [info] Starting extension host with pid 12066 (fork() took 6 ms).
+2022-12-11 20:28:56.022 [info] Extension host with pid 4783 exited with code: 0, signal: null.
+2022-12-11 20:42:44.037 [info] Extension host with pid 12066 exited with code: 0, signal: null.
+2022-12-11 20:42:44.710 [info] Starting extension host with pid 18356 (fork() took 7 ms).
