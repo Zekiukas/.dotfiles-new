@@ -2,12 +2,12 @@
     "telemetry.machineId": "abd39986b86c1ab608008d53a593cfb748421c6b3ede3d4417282282ca6a1999",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
-        "emptyWindows": [
+        "folders": [
             {
-                "backupFolder": "1670783297739"
+                "folderUri": "file:///home/zekiukas/Projects"
             }
-        ]
+        ],
+        "emptyWindows": []
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -47,8 +47,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -63,6 +62,20 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Projects"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/zekiukas/Projects/CPP/nd%20is%20failo.cpp",
+                                        "path": "/home/zekiukas/Projects/CPP/nd is failo.cpp",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/CPP/nd is failo.cpp"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -109,8 +122,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -209,11 +221,16 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File"
+                        "label": "Re&&vert File",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -428,7 +445,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel"
+                                    "label": "&&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -549,6 +567,13 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.editorLayoutSingle",
                                     "label": "&&Single"
                                 },
@@ -637,8 +662,7 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap",
-                        "enabled": false
+                        "label": "&&Word Wrap"
                     },
                     {
                         "id": "editor.action.toggleStickyScroll",
@@ -1175,6 +1199,11 @@
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
             },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
+            },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
                 "userSettingsLabel": "alt+f4"
@@ -1312,6 +1341,11 @@
                 "label": "Ctrl+NumPad0",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+numpad0"
+            },
+            "workbench.action.splitEditorInGroup": {
+                "label": "Ctrl+K Ctrl+Shift+\\",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
             },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
@@ -1563,7 +1597,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/zekiukas/.config/Code/Backups/1670783297739",
+            "folder": "file:///home/zekiukas/Projects",
+            "backupPath": "/home/zekiukas/.config/Code/Backups/ac14d9db1b26cb49cc2184f47a5de044",
             "uiState": {
                 "mode": 1,
                 "x": 1920,

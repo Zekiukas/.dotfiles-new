@@ -3,9 +3,14 @@ super + Escape
 	pkill -USR1 -x sxhkd
 
 # kill window
-super + q
-	bspc node --close
+super + shift + q
+	bspc node -k
 
+# close window
+super + q
+	bspc node -c
+
+	
 # terminal
 super + Return
 	alacritty
@@ -49,3 +54,7 @@ super + {_,shift + }{1-9,0}
 # quit bspwm
 super + BackSpace
 	bspc quit
+
+# change lang
+super + Tab
+	source ~/.local/bin/language.sh

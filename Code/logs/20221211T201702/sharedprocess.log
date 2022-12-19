@@ -1,5 +1,0 @@
-2022-12-11 20:17:04.814 [info] Starting worker process with pid 5070 (type: fileWatcher, window: 1).
-2022-12-11 20:28:17.618 [info] Starting worker process with pid 12067 (type: fileWatcher, window: 3).
-2022-12-11 20:28:56.016 [info] Worker process with pid 5070 terminated normally (type: fileWatcher, window: 1).
-2022-12-11 20:42:44.030 [info] Worker process with pid 12067 terminated normally (type: fileWatcher, window: 3).
-2022-12-11 20:42:44.715 [info] Starting worker process with pid 18355 (type: fileWatcher, window: 3).

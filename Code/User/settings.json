@@ -23,5 +23,7 @@
 "terminal.integrated.smoothScrolling": true,
 "editor.fontFamily": "JetBrainsMono",
 "terminal.integrated.fontFamily": "monospace",
-"window.zoomLevel": 1
+"window.zoomLevel": 1,
+"tabnine.experimentalAutoImports": true,
+"explorer.confirmDelete": false
 }

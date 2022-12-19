@@ -1,9 +1,9 @@
-2022/12/11-22:45:19.566 7cd2 Reusing MANIFEST /home/zekiukas/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/12/11-22:45:19.566 7cd2 Recovering log #338
-2022/12/11-22:45:19.566 7cd2 Reusing old log /home/zekiukas/.config/discord/Local Storage/leveldb/000338.log 
-2022/12/11-22:46:20.303 7cd2 Level-0 table #343: started
-2022/12/11-22:46:20.307 7cd2 Level-0 table #343: 18020 bytes OK
-2022/12/11-22:46:20.310 7cd2 Delete type=0 #338
-2022/12/11-22:48:36.804 7cd2 Level-0 table #345: started
-2022/12/11-22:48:36.808 7cd2 Level-0 table #345: 10554 bytes OK
-2022/12/11-22:48:36.810 7cd2 Delete type=0 #342
+2022/12/19-19:22:35.373 3d01 Reusing MANIFEST /home/zekiukas/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/12/19-19:22:35.374 3d01 Recovering log #692
+2022/12/19-19:22:35.374 3d01 Reusing old log /home/zekiukas/.config/discord/Local Storage/leveldb/000692.log 
+2022/12/19-19:23:36.062 448b Level-0 table #696: started
+2022/12/19-19:23:36.067 448b Level-0 table #696: 24690 bytes OK
+2022/12/19-19:23:36.070 448b Delete type=0 #692
+2022/12/19-20:05:36.061 5132 Level-0 table #698: started
+2022/12/19-20:05:36.064 5132 Level-0 table #698: 30390 bytes OK
+2022/12/19-20:05:36.067 5132 Delete type=0 #695

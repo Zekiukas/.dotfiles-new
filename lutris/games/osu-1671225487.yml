@@ -1,0 +1,8 @@
+game:
+  exe: /home/zekiukas/.local/share/osu-wine/osu!/osu!.exe
+  prefix: /home/zekiukas/.local/share/wineprefixes/osu-wineprefix
+  working_dir: /home/zekiukas/.local/share/osu-wine/osu!
+system:
+  disable_compositor: true
+wine:
+  fsr: false

@@ -1,18 +1,15 @@
-2022/12/12-20:09:43.934 f50 Reusing MANIFEST /home/zekiukas/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/12/12-20:09:43.934 f50 Recovering log #344
-2022/12/12-20:09:43.935 f50 Reusing old log /home/zekiukas/.config/discord/Local Storage/leveldb/000344.log 
-2022/12/12-20:15:39.408 13ba Level-0 table #348: started
-2022/12/12-20:15:39.422 13ba Level-0 table #348: 1269928 bytes OK
-2022/12/12-20:15:39.425 13ba Delete type=0 #344
-2022/12/12-21:01:23.898 3440 Level-0 table #350: started
-2022/12/12-21:01:23.910 3440 Level-0 table #350: 56358 bytes OK
-2022/12/12-21:01:23.913 3440 Delete type=0 #347
-2022/12/12-21:01:23.913 3440 Compacting 4@0 + 1@1 files
-2022/12/12-21:01:23.918 3440 Generated table #351@0: 67 keys, 51837 bytes
-2022/12/12-21:01:23.918 3440 Compacted 4@0 + 1@1 files => 51837 bytes
-2022/12/12-21:01:23.920 3440 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/12/12-21:01:23.920 3440 Delete type=2 #345
-2022/12/12-21:01:23.920 3440 Delete type=2 #348
-2022/12/12-21:01:23.920 3440 Delete type=2 #340
-2022/12/12-21:01:23.920 3440 Delete type=2 #350
-2022/12/12-21:01:23.920 3440 Delete type=2 #343
+2022/12/19-20:06:04.164 7249 Reusing MANIFEST /home/zekiukas/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/12/19-20:06:04.164 7249 Recovering log #697
+2022/12/19-20:06:04.164 7249 Reusing old log /home/zekiukas/.config/discord/Local Storage/leveldb/000697.log 
+2022/12/19-20:07:04.859 741b Level-0 table #701: started
+2022/12/19-20:07:04.862 741b Level-0 table #701: 16300 bytes OK
+2022/12/19-20:07:04.865 741b Delete type=0 #697
+2022/12/19-20:07:04.865 741b Compacting 4@0 + 1@1 files
+2022/12/19-20:07:04.889 741b Generated table #702@0: 89 keys, 2576449 bytes
+2022/12/19-20:07:04.889 741b Compacted 4@0 + 1@1 files => 2576449 bytes
+2022/12/19-20:07:04.892 741b compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/12/19-20:07:04.892 741b Delete type=2 #693
+2022/12/19-20:07:04.892 741b Delete type=2 #696
+2022/12/19-20:07:04.892 741b Delete type=2 #690
+2022/12/19-20:07:04.892 741b Delete type=2 #701
+2022/12/19-20:07:04.892 741b Delete type=2 #698

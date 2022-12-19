@@ -1,0 +1,7 @@
+2022/12/18-23:11:29.993 5c9b Reusing MANIFEST /home/zekiukas/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/18-23:11:29.993 5c9b Recovering log #3
+2022/12/18-23:11:29.993 5c9b Reusing old log /home/zekiukas/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/000003.log 
+2022/12/18-23:12:02.014 5c9b Level-0 table #5: started
+2022/12/18-23:12:02.016 5c9b Level-0 table #5: 1726 bytes OK
+2022/12/18-23:12:02.019 5c9b Delete type=0 #3
+2022/12/18-23:12:02.019 5c9b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

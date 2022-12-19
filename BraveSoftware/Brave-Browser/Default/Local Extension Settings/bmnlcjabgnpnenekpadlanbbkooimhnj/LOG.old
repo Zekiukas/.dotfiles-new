@@ -1,0 +1,21 @@
+2022/12/19-19:22:35.510 3e23 Reusing MANIFEST /home/zekiukas/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/bmnlcjabgnpnenekpadlanbbkooimhnj/MANIFEST-000001
+2022/12/19-19:22:35.510 3e23 Recovering log #30
+2022/12/19-19:22:35.515 3e23 Reusing old log /home/zekiukas/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/bmnlcjabgnpnenekpadlanbbkooimhnj/000030.log 
+2022/12/19-19:22:40.742 3e20 Level-0 table #34: started
+2022/12/19-19:22:40.771 3e20 Level-0 table #34: 2107455 bytes OK
+2022/12/19-19:22:40.774 3e20 Delete type=0 #30
+2022/12/19-19:33:56.533 3e23 Level-0 table #36: started
+2022/12/19-19:33:56.569 3e23 Level-0 table #36: 2104738 bytes OK
+2022/12/19-19:33:56.572 3e23 Delete type=0 #33
+2022/12/19-20:02:05.485 6925 Level-0 table #38: started
+2022/12/19-20:02:05.513 6925 Level-0 table #38: 2109757 bytes OK
+2022/12/19-20:02:05.522 6925 Delete type=0 #35
+2022/12/19-20:02:05.523 6925 Compacting 4@0 + 1@1 files
+2022/12/19-20:02:05.554 6925 Generated table #39@0: 12 keys, 1977655 bytes
+2022/12/19-20:02:05.554 6925 Compacted 4@0 + 1@1 files => 1977655 bytes
+2022/12/19-20:02:05.565 6925 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/12/19-20:02:05.565 6925 Delete type=2 #36
+2022/12/19-20:02:05.565 6925 Delete type=2 #38
+2022/12/19-20:02:05.565 6925 Delete type=2 #28
+2022/12/19-20:02:05.565 6925 Delete type=2 #31
+2022/12/19-20:02:05.565 6925 Delete type=2 #34

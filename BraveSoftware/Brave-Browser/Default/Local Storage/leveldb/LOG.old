@@ -1,0 +1,6 @@
+2022/12/19-19:22:35.168 3 Reusing MANIFEST /home/zekiukas/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2022/12/19-19:22:35.168 3 Recovering log #17
+2022/12/19-19:22:35.169 3 Reusing old log /home/zekiukas/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000017.log 
+2022/12/19-19:44:43.789 c Level-0 table #22: started
+2022/12/19-19:44:43.803 c Level-0 table #22: 20072 bytes OK
+2022/12/19-19:44:43.806 c Delete type=0 #17
