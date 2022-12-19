@@ -1,6 +1,0 @@
-2022/12/19-20:02:06.550 6925 Reusing MANIFEST /home/zekiukas/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/19-20:02:06.550 6925 Recovering log #6
-2022/12/19-20:02:06.578 6925 Reusing old log /home/zekiukas/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000006.log 
-2022/12/19-20:05:25.780 67cd Level-0 table #12: started
-2022/12/19-20:05:25.798 67cd Level-0 table #12: 2005005 bytes OK
-2022/12/19-20:05:25.801 67cd Delete type=0 #6
